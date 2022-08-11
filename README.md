@@ -10,14 +10,14 @@ have their own portal, which allows them to post new openings and download
 the resumes of all the applicants of a job, just by clicking it.
 
 ## Technologies Used
-- [C#/Asp.Net Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [Asp.Net Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
 - [MySQLServer](https://dev.mysql.com/downloads/mysql/)
-- [Swagger](https://swagger.io/)
-- [ReactJS](https://reactjs.org/)
+- [React](https://reactjs.org/)
 - [GitHub](https://github.com/)
 
 ## Screenshots
-
 
 ![Login](https://user-images.githubusercontent.com/64581539/148656535-e1c04090-f4ed-4b04-b8bb-72f364e74de9.JPG)
 ![Register_Employee](https://user-images.githubusercontent.com/64581539/148656536-ebb1fc90-2359-4a1c-9bdb-640452d3dadf.JPG)
